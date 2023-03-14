@@ -2,8 +2,8 @@
 <hr/>
 
 ### 🌐 social 🌐
- <a href=""/></a>
- <a href=""/></a>
+ <a href="https://www.instagram.com/haewon_171/"/></a>
+ <a href="https://www.youtube.com/watch?v=_w8jJ8q0Bmk"/></a>
  <a href=""/></a>
  <!--<a href="https://youjin0411.github.io/wedPracticd/project01.html"><img src="https://img.shields.io/badge/Activities-4285F4?style=flat-square&logo=Goglee&logoColor=white"/></a>-->
  
