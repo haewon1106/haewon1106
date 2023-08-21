@@ -3,7 +3,7 @@
 **🌐 SNS 🌐**  
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/instagram-007396?style=flat&logo=instagram&logoColor=white" />  
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />  
 
 **💡 Langage 💡**  
 <br>
