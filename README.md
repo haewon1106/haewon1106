@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## **🐣haewon GitHub🐣**
+# **🐣 haewon GitHub 🐣**
 <br>
 
 **🌐 SNS 🌐**  
