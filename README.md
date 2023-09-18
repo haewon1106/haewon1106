@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <br>  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="15" height="15" /> **Tools** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="15" height="15" />  
+
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" />**Tools** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" />
 <br>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2255?style=flat&logo=intellijidea&logoColor=white" />
