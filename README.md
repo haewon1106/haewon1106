@@ -7,8 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15" height="15" /> **SNS** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15" height="15" />
 <br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />  
+<a href="https://github.com/haewon1106/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<a href="https://www.instagram.com/haewon_171/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />  
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tulip.png" alt="Tulip" width="15" height="15" /> **Langage** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tulip.png" alt="Tulip" width="15" height="15" />
 <br>
