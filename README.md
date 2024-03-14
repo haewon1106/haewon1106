@@ -31,9 +31,5 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />  
 <br>
 <br>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewon1106&layout=compact">
 </div>
 <br>  
